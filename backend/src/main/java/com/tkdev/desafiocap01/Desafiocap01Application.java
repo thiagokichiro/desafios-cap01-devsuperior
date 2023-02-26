@@ -1,4 +1,4 @@
-package com.tkdev.desafiocap01.desafiocap01;
+package com.tkdev.desafiocap01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
